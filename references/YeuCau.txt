@@ -1,0 +1,7 @@
+﻿1. Nhóm 4 SV 
+2. Tạo tài khoản GitHub đại diện cho cả nhóm. Upload tất cả các tài liệu đã làm lên đó. Tốt nhất là mỗi khi chỉnh sửa một tài liệu nào đó, lại commit lên GitHub một lần. Như vậy, đến khi nộp BTL, nhóm SV sẽ có khoảng 40 lần commit là đạt.
+3. Mỗi thành viên phải có tối thiểu 5 lượt commit lên GitHub
+4. Hoàn thành nội dung trong các file docx, xlsx đính kèm
+5. Gửi GVHD link GitHub để xem 
+6. Vấn đáp
+
