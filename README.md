@@ -1,5 +1,5 @@
-/* Mini Project for Project manegement Subject */
+Mini project for subject IT project manegement 
 
-Content:
+Requirement:
 - Getting used to practice Github.
 - Upload files and commit to Github.
